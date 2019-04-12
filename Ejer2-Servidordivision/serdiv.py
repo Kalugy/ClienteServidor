@@ -21,14 +21,22 @@ def hilo(connection, addr):
 		print (a)
 		datos=a.split("|")
 		print (datos)
+		resultado=0
 		if (datos[0]=="/"):
-			resultado=int(datos[1])/int(datos[2])
+			try :
+				if(datos[2]!="0"):
+					resultado=int(datos[1])/int(datos[2])
+				else:
+					resultado="Operando indeterminada"
+			except:
+				resultado="Error operando"
 		else:
-			resultado="1 error 43"
-
+			resultado="Error en sintaxis"
+		
+		print(str(resultado))
 		a=str(resultado)
 		connection.send(a)
-		i=False
+		#i=False
 	# Clean up the connection
 	connection.close()
 
@@ -38,8 +46,7 @@ def hilo(connection, addr):
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Bind the socket to the port
-#server_address = ('192.168.9.154', 9051)
-server_address = ('localhost', 9052)
+server_address = ('192.168.9.154', 9057)
 print >>sys.stderr, 'starting up on %s port %s' % server_address
 sock.bind(server_address)
 
