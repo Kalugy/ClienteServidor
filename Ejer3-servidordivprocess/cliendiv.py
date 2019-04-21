@@ -31,6 +31,6 @@ try:
 
 finally:
     print >>sys.stderr, 'closing socket'
-    #time.sleep(10)
+    time.sleep(10)
     sock.close()
 
