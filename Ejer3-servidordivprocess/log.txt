@@ -1,0 +1,2 @@
+ (Cliente,Puerto) ('127.0.0.1', 40002) Dato recibido /|1043|146 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 40002) Dato recibido /|1043|147 Resultado 7

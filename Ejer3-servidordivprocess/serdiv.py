@@ -2,6 +2,7 @@ import socket
 import sys
 #import thread
 import threading
+import time
 from multiprocessing import Process
 
 def proceso(connection, addr):
@@ -34,8 +35,17 @@ def proceso(connection, addr):
 			resultado="Error en sintaxis"
 		
 		print(str(resultado))
-		a=str(resultado)
-		connection.send(a)
+		b=str(resultado)
+		#time.sleep(10)
+		#Lectura de archivo y log
+		f = open ('log.txt','a')
+		escritura=" (Cliente,Puerto) " + str(addr) + " Dato recibido "+ a + " Resultado "+ str(resultado) +"\n"
+		f.write(escritura)
+		f.close()
+
+
+		connection.send(b)
+		
 		#i=False
 	# Clean up the connection
 	connection.close()
@@ -46,7 +56,8 @@ def proceso(connection, addr):
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Bind the socket to the port
-server_address = ('localhost', 9001)
+#server_address = ('192.168.9.154', 9006)
+server_address = ('localhost', 9014)
 print >>sys.stderr, 'starting up on %s port %s' % server_address
 sock.bind(server_address)
 
