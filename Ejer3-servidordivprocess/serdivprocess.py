@@ -1,10 +1,21 @@
 import socket
 import sys
-import thread
-
+#import thread
 import threading
+import time
+from multiprocessing import Process
+#Desempeno
+	#Tasa de servicio
+		#Conexion
+		#Responder
+#Concurrencia
+	##de conexiones activas al mismo de tiempo
+	#Error hilo o recurso (timestamp (log))y comprar clientes y servidores
+#Cliente servidor
+	
 
-def hilo(connection, addr):
+
+def proceso(connection, addr):
 	
 	
 	#print connection.recv(16)
@@ -34,11 +45,18 @@ def hilo(connection, addr):
 			resultado="Error en sintaxis"
 		
 		print(str(resultado))
-		a=str(resultado)
-		connection.send(a)
-
+		b=str(resultado)
 		
+		time.sleep(10)
+		#Lectura de archivo y log
 
+		f = open ('log.txt','a')
+		escritura=" (Cliente,Puerto) " + str(addr) + " Dato recibido "+ a + " Resultado "+ str(resultado) +"\n"
+		f.write(escritura)
+		f.close()
+
+
+		connection.send(b)
 		
 		#i=False
 	# Clean up the connection
@@ -50,7 +68,8 @@ def hilo(connection, addr):
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Bind the socket to the port
-server_address = ('192.168.9.154', 9057)
+server_address = ('192.168.9.154', 9400)
+#server_address = ('localhost',9400)
 print >>sys.stderr, 'starting up on %s port %s' % server_address
 sock.bind(server_address)
 
@@ -61,13 +80,13 @@ while True:
 
 	connection, client_address = sock.accept()
 
-	print >>sys.stderr, 'connection from', client_address
 
-	hilow = threading.Thread(target=hilo, args=(connection,client_address))
+	#p = threading.Thread(target=hilo, args=(connection,client_address))
 
-	hilow.start()
+
+	p = Process(target=proceso, args=(connection,client_address))
+	p.start()
+	p.join()
 	#hilow.destroy()
 
 	#thread.start_new_thread(hilo,(connection,client_address))
-
-
