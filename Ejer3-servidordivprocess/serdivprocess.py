@@ -10,7 +10,7 @@ from multiprocessing import Process
 		#Responder
 #Concurrencia
 	##de conexiones activas al mismo de tiempo
-	#Error hilo o recurso (timestamp (log))y comprar clientes y servidores
+	#Error hilo o recurso (timestamp (log))y comparar clientes y servidores
 #Cliente servidor
 	
 
@@ -68,7 +68,7 @@ def proceso(connection, addr):
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Bind the socket to the port
-server_address = ('192.168.9.154', 9400)
+#server_address = ('192.168.9.154', 9400)
 #server_address = ('localhost',9400)
 print >>sys.stderr, 'starting up on %s port %s' % server_address
 sock.bind(server_address)
@@ -82,11 +82,13 @@ while True:
 
 
 	#p = threading.Thread(target=hilo, args=(connection,client_address))
+	try:
 
-
-	p = Process(target=proceso, args=(connection,client_address))
-	p.start()
-	p.join()
+		p = Process(target=proceso, args=(connection,client_address))
+		p.start()
+		p.join()
+	except:
+		print("Error")	
 	#hilow.destroy()
 
 	#thread.start_new_thread(hilo,(connection,client_address))

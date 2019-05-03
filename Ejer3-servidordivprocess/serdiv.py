@@ -4,6 +4,10 @@ import sys
 import threading
 import time
 from multiprocessing import Process
+from threading import Thread, Lock
+
+mutex = Lock()
+
 #Desempeno
 	#Tasa de servicio
 		#Conexion
@@ -27,6 +31,7 @@ def proceso(connection, addr):
 
 	datos=[]
 	i=True
+	#print("hey")
 	try:
 
 
@@ -36,6 +41,7 @@ def proceso(connection, addr):
 			#print len(connection.recv(16))
 			
 			print (a)
+			print(type(a))
 			datos=a.split("|")
 			print (datos)
 			resultado=0
@@ -47,21 +53,27 @@ def proceso(connection, addr):
 						resultado="Operando indeterminada"
 				except:
 					resultado="Error operando"
-
+			elif(datos[0]==""):
+				print("dato vacio o fin")
+				i=False;	
 			else:
 				resultado="Error en sintaxis"
 			
+
+
 			print(str(resultado))
 			b=str(resultado)
 			#time.sleep(10)
 			#Lectura de archivo y log
-
+			mutex.acquire()
 			f = open ('log.txt','a')
 			escritura=" (Cliente,Puerto) " + str(addr) + " Dato recibido "+ a + " Resultado "+ str(resultado) +"\n"
 			f.write(escritura)
 			f.close()
+			mutex.release()
 			connection.send(b)
 
+		#connection.close()
 	except:
 		print("Conexion fallida")
 		# Clean up the connection
@@ -69,71 +81,57 @@ def proceso(connection, addr):
 
 
 
-def proceso2(connection, addr):
-	
-	
-	#print connection.recv(16)
-	#amount_received = 0
-	#amount_expected = len(message)
-
-	datos=[]
-	i=True
-	try:
-
-
-		while i:
-			a=connection.recv(1024)	
-			#print connection.recv(16)
-			#print len(connection.recv(16))
-			
-			print (a)
-			print (datos)
-			resultado=0
-			if (a==	"Sv?"):
-				resultado="serv|/|9400"
-			else:
-				resultado="Error bro"
-
-			print(str(resultado))
-			b=str(resultado)
-			connection.send(b)
-
-	except:
-		print("Conexion fallida")
-		# Clean up the connection
-		connection.close()			
 
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 # Bind the socket to the port
 #server_address = ('192.168.9.154', 9000)
-server_address = ('localhost', 9401)
+server_address = ('localhost', 9443)
 print >>sys.stderr, 'starting up on %s port %s' % server_address
-sock.bind(server_address)
+try:
+	sock.bind(server_address)
+except:
+	pass
 
-
-
+"""
 sock2 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server_address2 = ('localhost', 8401)
+server_address2 = ('localhost', 8432)
 print >>sys.stderr, 'starting up on %s port %s' % server_address2
-sock2.bind(server_address2)
-
+try:
+	sock2.bind(server_address2)
+except:
+	pass
+"""	
 # Listen for incoming connections
+
 sock.listen(1)
-sock2.listen(1)
+#sock2.listen(1)
+"""
+print("entre")
+try:
+	
+	connection2, client_address2 = sock2.accept()
+	p2 = Process(target=proceso2, args=(connection2,client_address2))
+	p2.start()
+	p2.join()
+except:
+	print("Error al conectarse")	
+	connection2.close()	
+"""	
 while True:
 
-	connection, client_address = sock.accept()
-	connection2, client_address2 = sock2.accept()
+	try:
+		connection, client_address = sock.accept()
+		p = Process(target=proceso, args=(connection,client_address))
+		p.start()
+		p.join()
 
+	except:
+		connection.close()	
 	#p = threading.Thread(target=hilo, args=(connection,client_address))
 
-	p = Process(target=proceso, args=(connection,client_address))
-	p2 = Process(target=proceso2, args=(connection2,client_address2))
-	p.start()
-	p2.start()
-	p.join()
-	p2.join()
+		#print("Error al conectarse")	
+		#connection2.send("Error al conectarse")
 
 	#hilow.destroy()
 
