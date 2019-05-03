@@ -12,7 +12,7 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_address = ('localhost', 8441)
 print >>sys.stderr, 'connecting to %s port %s' % server_address
 sock.connect(server_address)
-
+#tiempo de respuesta
 
 try:
     
@@ -42,11 +42,11 @@ finally:
 """
 
 def hilo():
-
+    #print("entra")
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
     # Connect the socket to the port where the server is listening
-    server_address = ('localhost', 9443)
+    server_address = ('localhost', 9456)
     print >>sys.stderr, 'connecting to %s port %s' % server_address
     sock.connect(server_address)
 
@@ -82,10 +82,12 @@ for num_hilo in range(NUM_HILOS):
     hilo1 = threading.Thread(name='hilo%s' %num_hilo, target=hilo)    
     hilo1.start()
 
+
     #hilow = threading.Thread(target=hilo, args=(connection,client_address))
 
     #hilow.start()
     #hilow.destroy()
     #sock.close()
-
+hilo1.join()    
+#hilo1.destroy()
     

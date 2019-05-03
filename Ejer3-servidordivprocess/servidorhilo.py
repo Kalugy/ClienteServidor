@@ -20,9 +20,12 @@ mutex = Lock()
 #verificar ("Sv?")
 #responder ("serv:/:puerto")
 
+#cuantas conexiones al mismo tiempo puedo tener
+#Cuantas segundos por radio o por tiempo
 
-
-def proceso(connection, addr):
+#timestamp minimo maximo 
+#cuantas conexiones fueron menores menos de 
+def hilo(connection, addr):
 	
 	
 	#print connection.recv(16)
@@ -31,11 +34,12 @@ def proceso(connection, addr):
 
 	datos=[]
 	i=True
-	#print("hey")
+	print("hey")
 	try:
 
 
 		while i:
+			print("entra")
 			a=connection.recv(1024)	
 			#print connection.recv(16)
 			#print len(connection.recv(16))
@@ -66,7 +70,7 @@ def proceso(connection, addr):
 			#time.sleep(10)
 			#Lectura de archivo y log
 			mutex.acquire()
-			f = open ('log.txt','a')
+			f = open ('log2.txt','a')
 			escritura=" (Cliente,Puerto) " + str(addr) + " Dato recibido "+ a + " Resultado "+ str(resultado) +"\n"
 			f.write(escritura)
 			f.close()
@@ -85,8 +89,8 @@ def proceso(connection, addr):
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 # Bind the socket to the port
-server_address = ('192.168.8.138', 9400)
-#server_address = ('localhost', 9400)
+#server_address = ('192.168.8.138', 9400)
+server_address = ('localhost', 9456)
 print >>sys.stderr, 'starting up on %s port %s' % server_address
 try:
 	sock.bind(server_address)
@@ -122,9 +126,15 @@ while True:
 
 	try:
 		connection, client_address = sock.accept()
-		p = Process(target=proceso, args=(connection,client_address))
-		p.start()
-		p.join()
+		#print("entro")
+		#p = Process(target=proceso, args=(connection,client_address))
+		#p = threading.Thread(target=hilo, args=(connection,client_address))
+		hilow = threading.Thread(target=hilo, args=(connection,client_address))
+
+		hilow.start()
+		#p.start()
+		#p.join()
+			
 
 	except:
 		connection.close()	
@@ -136,5 +146,3 @@ while True:
 	#hilow.destroy()
 
 	#thread.start_new_thread(hilo,(connection,client_address))
-
-

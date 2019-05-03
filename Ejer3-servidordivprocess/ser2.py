@@ -50,7 +50,7 @@ def proceso2(connection, addr):
 
 
 sock2 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server_address2 = ('localhost', 8441)
+server_address2 = ('192.168.8.138', 8400)
 print >>sys.stderr, 'starting up on %s port %s' % server_address2
 sock2.bind(server_address2)
 

@@ -1,0 +1,1762 @@
+ (Cliente,Puerto) ('127.0.0.1', 35624) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35620) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35622) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35624) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35620) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35622) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35650) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35652) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35656) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35660) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35654) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35650) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35658) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35656) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35662) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35652) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35660) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35654) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35658) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35662) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35664) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35666) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35664) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35666) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35668) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35670) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35672) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35668) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35670) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35672) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35676) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35676) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35680) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35682) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35684) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35684) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35682) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35686) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35680) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35686) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35692) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35690) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35688) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35694) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35688) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35692) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35690) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35694) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35696) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35698) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35696) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35698) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35700) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35702) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35704) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35700) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35706) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35702) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35712) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35716) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35714) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35704) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35706) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35714) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35716) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35712) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35722) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35720) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35720) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35722) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35724) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35728) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35724) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35728) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35738) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35736) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35738) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35742) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35736) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35740) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35744) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35742) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35748) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35746) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35740) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35744) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35750) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35746) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35752) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35748) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35754) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35758) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35754) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35750) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35752) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35758) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35762) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35766) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35768) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35770) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35766) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35762) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35770) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35772) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35768) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35774) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35776) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35772) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35774) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35784) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35778) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35776) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35780) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35784) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35786) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35778) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35792) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35780) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35786) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35792) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35794) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35796) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35800) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35806) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35794) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35796) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35808) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35802) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35810) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35812) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35800) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35812) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35808) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35806) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35802) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35810) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35814) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35816) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35818) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35814) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35818) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35822) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35828) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35816) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35822) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35828) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35826) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35834) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35836) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35838) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35842) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35826) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35834) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35836) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35838) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35846) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35842) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35846) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35726) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35710) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35726) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35710) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35756) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35730) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35732) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35756) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35730) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35732) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35804) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35824) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35804) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35824) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35820) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35844) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35820) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35844) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35832) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35848) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35832) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35848) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35718) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35678) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35718) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35678) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35830) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35830) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35840) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35708) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35764) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35840) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35708) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35764) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35674) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35674) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35782) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35760) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35798) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35782) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35760) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35798) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35790) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35788) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35790) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35788) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35734) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35734) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35852) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35856) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35854) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35856) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35852) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35854) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35860) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35858) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35862) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35860) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35862) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35864) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35858) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35866) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35868) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35864) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35874) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35868) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35866) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35872) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35878) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35874) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35870) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35878) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35872) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35884) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35870) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35880) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35882) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35886) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35898) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35888) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35890) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35884) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35902) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35904) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35900) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35908) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35886) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35898) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35890) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35900) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35912) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35880) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35882) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35904) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35902) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35910) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35906) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35888) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35908) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35910) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35906) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35912) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35914) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35922) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35920) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35936) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35920) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35914) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35922) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35948) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35938) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35940) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35950) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35936) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35940) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35938) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35950) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35948) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35942) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35944) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35944) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35946) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35942) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35956) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35946) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35956) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35952) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35960) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35954) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35952) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35962) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35954) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35960) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35958) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35966) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35962) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35966) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35964) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35958) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35970) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35964) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35970) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35972) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35968) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35972) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35974) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35976) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35976) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35986) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35968) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35974) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35982) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35990) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35994) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35982) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35988) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35992) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35994) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35990) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35988) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35986) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36000) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35998) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36000) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36006) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36004) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35992) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36002) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36016) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36014) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36006) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36004) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35998) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36018) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36014) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36016) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36022) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36020) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36022) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36018) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36024) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36020) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36002) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36024) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36026) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36026) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36032) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36032) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36036) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36036) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36042) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36050) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36054) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36042) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36056) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36058) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36038) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36050) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36056) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36060) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36054) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36070) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36058) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36064) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36062) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36038) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36066) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36064) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36070) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36068) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36060) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36068) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36062) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36078) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36072) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36076) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36066) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36078) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36072) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36076) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36084) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36086) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36082) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36092) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36084) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36094) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36098) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36092) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36100) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36094) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36082) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36086) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36098) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36104) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36100) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36106) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36108) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36102) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36108) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36102) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36104) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36106) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36112) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36120) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36118) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36112) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36120) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36110) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36124) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36118) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36124) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36110) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36128) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36128) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36132) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36132) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36134) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36146) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36136) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36136) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36144) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36134) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36146) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36138) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36144) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36150) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36138) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36150) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36158) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36154) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36148) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36158) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36154) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36162) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36168) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36164) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36160) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36162) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36168) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36148) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36160) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36176) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36184) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36170) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36164) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36178) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36188) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36184) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36176) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36186) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36170) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36178) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36188) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36186) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36192) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36190) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36194) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36192) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36190) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36194) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36198) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36202) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36206) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36206) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36198) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36216) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36202) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36218) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36214) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36218) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36216) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36214) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36226) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36224) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36228) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36224) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36226) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36232) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36238) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36228) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36230) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36232) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36244) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36238) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36234) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36240) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36244) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36230) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36240) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36250) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36246) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36234) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36246) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36250) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36252) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36274) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36258) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36274) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36258) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36264) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36252) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36260) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36278) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36276) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36264) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36278) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36276) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36282) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36260) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36280) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36282) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36280) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36286) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36286) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36284) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36288) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36290) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36284) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36290) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36292) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36294) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36294) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36288) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36292) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36296) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36296) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36298) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36300) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36302) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36298) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36300) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36304) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36302) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36304) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36308) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36306) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36308) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36310) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36322) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36306) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36314) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36312) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36314) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36326) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36316) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36322) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36310) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36326) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36328) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36312) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36324) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36330) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36316) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36328) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36324) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36330) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36332) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36334) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36332) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36344) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36340) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36348) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36344) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36340) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36350) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36348) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36334) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36350) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36352) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36356) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36352) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36356) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36360) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36366) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36358) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36362) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36360) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36366) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36368) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36370) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36362) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36358) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36368) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36370) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36374) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36384) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36374) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36394) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36378) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36378) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36394) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36376) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36376) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36398) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36398) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36396) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36384) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36396) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36392) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36388) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36404) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36402) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36414) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36392) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36402) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36388) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36400) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36420) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36416) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36412) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36404) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36414) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36426) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36400) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36416) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36412) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36418) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36428) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36418) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36430) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36428) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36426) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36420) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36430) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36436) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36432) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36438) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36432) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36448) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36446) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36448) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36446) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36436) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36456) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36438) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36456) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36458) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36460) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36472) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36464) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36458) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36472) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36480) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36476) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36460) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36480) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36464) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36476) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36478) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36484) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36482) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36484) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36490) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36478) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36486) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36488) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36482) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36492) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36496) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36490) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36488) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36498) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36496) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36498) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36492) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36486) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36502) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36508) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36508) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36514) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36494) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36518) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36502) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36518) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36506) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36514) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36520) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36530) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36494) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36532) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36520) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36506) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36516) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36528) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36532) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36530) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36516) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36534) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36528) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36536) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36534) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36538) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36536) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36554) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36552) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36546) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36554) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36546) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36552) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36558) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36556) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36538) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36558) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36556) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36564) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36562) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36572) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36572) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36564) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36576) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36562) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36566) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36574) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36576) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36574) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36578) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36582) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36566) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36580) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36582) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36578) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36588) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36584) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36580) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36590) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36596) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36588) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36594) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36584) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36600) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36606) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36600) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36596) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36590) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36594) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36606) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36602) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36602) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36612) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36610) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36616) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36614) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36612) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36618) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36660) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36616) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36670) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36614) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36672) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36660) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36610) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36674) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36618) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36668) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36676) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36670) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36668) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36678) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36684) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36674) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36676) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36678) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36680) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36682) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36672) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36690) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36684) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36686) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36692) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36686) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36690) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36694) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36682) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36692) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36696) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36680) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36694) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36688) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36696) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36700) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36698) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36700) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36698) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36706) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36688) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36708) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36712) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36708) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36712) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36714) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36722) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36714) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36706) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36718) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36722) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36724) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36718) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36724) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36732) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36734) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36728) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36736) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36734) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36732) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36746) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36740) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36736) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36746) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36742) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36728) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36750) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36748) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36754) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36752) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36740) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36756) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36758) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36742) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36754) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36750) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36758) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36756) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36752) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36748) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36760) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36760) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36762) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36776) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36764) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36766) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36762) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36766) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36776) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36764) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36798) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36800) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36798) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36800) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36802) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36804) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36802) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36806) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36810) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36816) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36810) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36806) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36804) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36820) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36820) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36816) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36818) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36824) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36818) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36824) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36822) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36826) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36822) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36830) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36826) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36836) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36830) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36836) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36838) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36828) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36842) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36828) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36838) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36842) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36840) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36844) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36840) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36850) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36844) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36852) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36850) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36856) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36846) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36856) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36852) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36860) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36846) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36860) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36862) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36862) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36868) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36864) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36868) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36864) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36870) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36880) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36886) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36880) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36878) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36870) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36886) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36878) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36890) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36890) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36888) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36892) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36894) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36888) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36892) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36894) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36896) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36896) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36902) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36902) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36906) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36900) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36898) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36906) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36908) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36910) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36900) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36920) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36914) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36908) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36910) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36920) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36922) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36898) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36916) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36914) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36922) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36924) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36916) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36926) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36924) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36938) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36936) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36932) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36940) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36926) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36942) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36938) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36946) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36936) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36932) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36942) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36946) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36952) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36940) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36952) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36950) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36954) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36960) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36954) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36962) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36950) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36964) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36966) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36968) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36960) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36966) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36964) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36968) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36962) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36970) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36970) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36972) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36972) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36976) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36978) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36976) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36982) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36978) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36974) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36974) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36982) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36980) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36984) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36986) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36990) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36980) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36990) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36988) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36984) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36988) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36992) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36986) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36992) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36994) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36998) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37004) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36998) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37004) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37010) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36994) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37006) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37016) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37010) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37018) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37006) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37016) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37018) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37014) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37022) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37020) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37014) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37022) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37020) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37024) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37026) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37024) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37028) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37026) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37030) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37034) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37032) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37028) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37034) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37042) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37030) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37044) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37032) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37048) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37042) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37040) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37048) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37044) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37040) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37052) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37050) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37058) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37054) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37052) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37058) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37060) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37060) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37054) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37064) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37062) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37050) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37066) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37070) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37074) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37062) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37064) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37066) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37076) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37070) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37074) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37078) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37076) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37080) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37078) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37084) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37082) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37090) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37080) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37100) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37084) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37082) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37094) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37100) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37098) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37094) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37098) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37090) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37086) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37102) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37086) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37106) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37102) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37106) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37104) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37116) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37104) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37114) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37108) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37118) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37114) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37118) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37108) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37120) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37116) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37124) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37120) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37126) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37128) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37122) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37122) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37124) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37126) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37134) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37134) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37128) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37132) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37130) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37140) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37136) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37140) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37130) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37132) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37144) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37136) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37148) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37148) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37154) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37152) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37144) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37160) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37154) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37152) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37160) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37170) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37166) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37164) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37176) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37166) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37172) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37176) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37178) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37170) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37172) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37164) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37178) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37182) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37188) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37186) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37184) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37186) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37182) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37190) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37188) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37184) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37196) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37196) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37190) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37204) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37198) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37200) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37204) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37210) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37200) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37206) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37210) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37216) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37206) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37198) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37224) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37216) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37218) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37226) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37222) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37224) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37226) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37230) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37228) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37238) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37228) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37218) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37230) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37222) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37238) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37232) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37240) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37240) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37232) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37246) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37258) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37252) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37248) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37246) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37262) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37258) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37264) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37248) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37268) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37262) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37260) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37266) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37264) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37268) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37252) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37260) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37270) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37266) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37274) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37272) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37270) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37278) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37274) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37280) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37282) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37280) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37290) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37272) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37278) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37286) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37282) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37286) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37290) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37292) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37292) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37296) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37302) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37298) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37308) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37310) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37296) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37306) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37298) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37310) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37300) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37302) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37308) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37314) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37300) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37322) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37314) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37306) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37322) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37316) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37316) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37324) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37324) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37326) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37330) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37326) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37330) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37344) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37346) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37346) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37344) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37348) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37352) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37348) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37354) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37352) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37356) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37312) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37360) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37358) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37354) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37358) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37312) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37360) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37362) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37356) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37362) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37364) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37366) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37364) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37368) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37368) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37372) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37370) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37366) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37370) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37374) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37372) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37378) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37376) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37374) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37382) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37376) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37378) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37380) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37382) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37380) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37384) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37384) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37388) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37386) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37400) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37386) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37402) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37400) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37394) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37406) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37402) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37388) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37394) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37406) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37408) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37404) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37408) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37410) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37412) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37414) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37404) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37410) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37414) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37412) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37416) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37420) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37416) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37420) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37426) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37426) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37442) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37430) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37452) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37442) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37422) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37484) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37488) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37490) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37422) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37498) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37566) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37430) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37514) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37470) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37438) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37424) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37514) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37498) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37448) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37428) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37470) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37450) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37438) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37428) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37452) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37488) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37484) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37462) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37424) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37448) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37566) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37462) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37450) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37628) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37684) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37676) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37490) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37684) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37676) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37628) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37698) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37698) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37782) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37746) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37782) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37746) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35896) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35896) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35928) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35934) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35928) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35934) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35984) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35984) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36010) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36010) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36008) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36008) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36034) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36046) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36044) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36034) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36046) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36044) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36074) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36074) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36090) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36096) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36090) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36096) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36088) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36088) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36142) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36130) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36152) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36142) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36130) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36152) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36166) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36166) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36204) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36212) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36210) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36204) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36212) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36210) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36222) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36256) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36222) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36256) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36318) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36318) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36372) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36372) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36424) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36338) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36424) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36380) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36338) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36380) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36444) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36406) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36444) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36406) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36504) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36500) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36504) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36500) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36550) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36540) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36544) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36544) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36550) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36540) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36570) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36548) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36570) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36548) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36510) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36510) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36608) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36652) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36608) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36658) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36652) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36658) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36048) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36030) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36650) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36048) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36030) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36650) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36730) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36730) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36716) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36704) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36774) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36704) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36716) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36774) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36792) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36782) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36770) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36792) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36782) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36770) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36854) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36812) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36788) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36854) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36788) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36812) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36918) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36912) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36918) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36912) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36884) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36884) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36956) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36928) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36948) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36956) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36948) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36928) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36958) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36958) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36386) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36342) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36342) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36386) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36320) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36272) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36272) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36320) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37096) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37096) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37092) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37072) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37092) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37072) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37088) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37138) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37088) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37138) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37174) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37158) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37146) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37174) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37146) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37158) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37214) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37168) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37156) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37214) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37168) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37156) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37244) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37234) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37244) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37234) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37284) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37250) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37254) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37250) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37284) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37254) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36726) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36626) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36726) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36626) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36662) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37396) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36568) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37396) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36662) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36568) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37418) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37418) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37622) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36866) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37622) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36866) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37766) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37800) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37808) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37766) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37800) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37808) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37398) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37318) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37392) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37398) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37392) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37318) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37334) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37304) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37304) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37334) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37710) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37830) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37830) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37710) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37822) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37600) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37822) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37600) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35916) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35924) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35916) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35924) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36122) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36140) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36122) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36140) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36040) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36040) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36254) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36598) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36254) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36598) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36586) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36560) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36462) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36586) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36462) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36560) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36944) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36934) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36664) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36620) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36944) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36620) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36934) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36664) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36904) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36872) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36874) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36904) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36874) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36872) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37236) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37142) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37236) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37142) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37046) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37212) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36242) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37068) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37212) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37046) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36242) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37068) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37336) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37328) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37276) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37336) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37328) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37276) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37446) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37432) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37436) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37432) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37530) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37446) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37436) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37530) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37112) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37208) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37110) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37112) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37338) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37110) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37208) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37338) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37568) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37496) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37568) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37728) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37496) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37728) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36012) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36080) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35996) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36012) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35996) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36080) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36522) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36450) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36450) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36522) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36268) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36266) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36268) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36266) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35876) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36654) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35876) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36028) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36648) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36654) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36028) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36648) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36262) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36390) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36336) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36262) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36390) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36336) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37294) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36542) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36434) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36434) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37294) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36542) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36848) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37556) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36848) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37440) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37616) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37556) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37440) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37616) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37162) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37390) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37180) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37162) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37180) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37390) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37706) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37750) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37848) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37494) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37706) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37848) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37494) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37750) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36156) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36208) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36156) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36208) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36468) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36470) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36512) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36512) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36468) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36470) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36794) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36834) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36646) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36794) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36646) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36834) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37202) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36180) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36182) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37202) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36182) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36180) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37056) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37002) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36114) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37056) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37002) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36114) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37350) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37332) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36524) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37332) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37350) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36524) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37598) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37720) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37720) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37598) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37466) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37586) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37586) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37466) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36248) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36642) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36780) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36248) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36642) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36780) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37762) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37732) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37664) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37762) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37664) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37732) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35892) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35932) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36702) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35978) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 35892) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35932) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36702) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 35978) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37508) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37752) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37660) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37752) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37508) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37660) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37288) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36634) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36638) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37288) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36634) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36638) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37618) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37846) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37784) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37618) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37784) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37846) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37724) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37788) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37724) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37788) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37608) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37802) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 37608) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 37802) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36640) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36628) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36640) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36628) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36364) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36656) Dato recibido /|1043|147 Resultado 7
+ (Cliente,Puerto) ('127.0.0.1', 36364) Dato recibido  Resultado 0
+ (Cliente,Puerto) ('127.0.0.1', 36656) Dato recibido  Resultado 0
