@@ -3,8 +3,11 @@ import sys
 import thread
 
 import threading
-import time
+#from time import time
+#from time import sleep
 # Create a TCP/IP socket
+#https://medium.com/@krishankantsinghal/too-many-open-files-why-my-logs-are-showing-too-many-open-file-and-server-behaving-weirdly-414365f27cb9
+
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Connect the socket to the port where the server is listening
@@ -46,7 +49,7 @@ def hilo():
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
     # Connect the socket to the port where the server is listening
-    server_address = ('localhost', 9456)
+    server_address = ('localhost', 9024)
     print >>sys.stderr, 'connecting to %s port %s' % server_address
     sock.connect(server_address)
 
@@ -55,6 +58,7 @@ def hilo():
     sock.send(message)
     data = sock.recv(1024)
     print (data)
+
     """
     #print (data)
     print >>sys.stderr, 'received "%s"' % data
@@ -88,6 +92,7 @@ for num_hilo in range(NUM_HILOS):
     #hilow.start()
     #hilow.destroy()
     #sock.close()
-hilo1.join()    
+hilo1.join()
+   
 #hilo1.destroy()
     

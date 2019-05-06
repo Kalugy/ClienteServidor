@@ -6,6 +6,7 @@ import time
 from multiprocessing import Process
 from threading import Thread, Lock
 
+#from time import time
 mutex = Lock()
 
 #Desempeno
@@ -25,124 +26,62 @@ mutex = Lock()
 
 #timestamp minimo maximo 
 #cuantas conexiones fueron menores menos de 
-def hilo(connection, addr):
-	
-	
-	#print connection.recv(16)
-	#amount_received = 0
-	#amount_expected = len(message)
-
+def hilo(connection, addr, tiempo_inicial,horadeinicio):
 	datos=[]
-	i=True
-	print("hey")
-	try:
-
-
-		while i:
-			print("entra")
-			a=connection.recv(1024)	
-			#print connection.recv(16)
-			#print len(connection.recv(16))
-			
-			print (a)
-			print(type(a))
-			datos=a.split("|")
-			print (datos)
-			resultado=0
-			if (datos[0]=="/"):
-				try :
-					if(datos[2]!="0"):
-						resultado=int(datos[1])/int(datos[2])
-					else:
-						resultado="Operando indeterminada"
-				except:
-					resultado="Error operando"
-			elif(datos[0]==""):
-				print("dato vacio o fin")
-				i=False;	
+	a=connection.recv(1024)	
+	datos=a.split("|")
+	resultado=0
+	if (datos[0]=="/"):
+		try :
+			if(datos[2]!="0"):
+				resultado=int(datos[1])/int(datos[2])
 			else:
-				resultado="Error en sintaxis"
-			
+				resultado="Operando indeterminada"
+		except:
+			resultado="Error operando"
+	elif(datos[0]==""):
+		print("dato vacio o fin")
+		#i=False;	
+	else:
+		resultado="Error en sintaxis"
+	print ("dato recivido: "+ str(datos)+ "resultado"+str(resultado) )
+	b=str(resultado)
+	time.sleep(30)
+	connection.send(b)
+	horafinal = time.strftime("%H") +":"+ time.strftime("%M") +":"+ time.strftime("%S")
+	tiempo_final = time.time() 
+	tiempo_ejecucion = tiempo_final - tiempo_inicial
+	
+	mutex.acquire()
 
+	f = open ('log2.txt','a')
+	escritura="(Cliente,Puerto) " + str(addr) + " Dato recibido "+ a + " Resultado "+ str(resultado) +"Horainicio" +str(horadeinicio) +"Horafinal"+str(horafinal)+"tiempotranscurrido "+str(tiempo_ejecucion)+"\n"
+	f.write(escritura)
+	f.close()
+	mutex.release()
+	
+	connection.close()
+		
 
-			print(str(resultado))
-			b=str(resultado)
-			#time.sleep(10)
-			#Lectura de archivo y log
-			mutex.acquire()
-			f = open ('log2.txt','a')
-			escritura=" (Cliente,Puerto) " + str(addr) + " Dato recibido "+ a + " Resultado "+ str(resultado) +"\n"
-			f.write(escritura)
-			f.close()
-			mutex.release()
-			connection.send(b)
-
-		#connection.close()
-	except:
-		print("Conexion fallida")
-		# Clean up the connection
-		connection.close()			
-
-
-
-
+	
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-# Bind the socket to the port
 #server_address = ('192.168.8.138', 9400)
-server_address = ('localhost', 9456)
+server_address = ('localhost', 9011)
 print >>sys.stderr, 'starting up on %s port %s' % server_address
-try:
-	sock.bind(server_address)
-except:
-	pass
-
-"""
-sock2 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server_address2 = ('localhost', 8432)
-print >>sys.stderr, 'starting up on %s port %s' % server_address2
-try:
-	sock2.bind(server_address2)
-except:
-	pass
-"""	
-# Listen for incoming connections
-
-sock.listen(1)
-#sock2.listen(1)
-"""
-print("entre")
-try:
-	
-	connection2, client_address2 = sock2.accept()
-	p2 = Process(target=proceso2, args=(connection2,client_address2))
-	p2.start()
-	p2.join()
-except:
-	print("Error al conectarse")	
-	connection2.close()	
-"""	
+sock.bind(server_address)
+sock.listen(50)
 while True:
-
 	try:
 		connection, client_address = sock.accept()
-		#print("entro")
-		#p = Process(target=proceso, args=(connection,client_address))
-		#p = threading.Thread(target=hilo, args=(connection,client_address))
-		hilow = threading.Thread(target=hilo, args=(connection,client_address))
-
+		tiempo_inicial = time.time() 
+ 		horadeinicio = time.strftime("%H") +":"+ time.strftime("%M") +":"+ time.strftime("%S")
+		hilow = threading.Thread(target=hilo, args=(connection,client_address, tiempo_inicial,horadeinicio))
 		hilow.start()
-		#p.start()
-		#p.join()
-			
-
 	except:
 		connection.close()	
-	#p = threading.Thread(target=hilo, args=(connection,client_address))
+		#pass
 
-		#print("Error al conectarse")	
-		#connection2.send("Error al conectarse")
 
-	#hilow.destroy()
 
-	#thread.start_new_thread(hilo,(connection,client_address))
+
