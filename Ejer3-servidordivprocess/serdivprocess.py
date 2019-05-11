@@ -68,7 +68,7 @@ def proceso(connection, addr, tiempo_inicial,horadeinicio):
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 #server_address = ('192.168.8.138', 9400)
-server_address = ('localhost', 9024)
+server_address = ('localhost', 9027)
 print >>sys.stderr, 'starting up on %s port %s' % server_address
 sock.bind(server_address)
 sock.listen(50)

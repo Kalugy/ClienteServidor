@@ -46,7 +46,7 @@ def hilo(connection, addr, tiempo_inicial,horadeinicio):
 		resultado="Error en sintaxis"
 	print ("dato recivido: "+ str(datos)+ "resultado"+str(resultado) )
 	b=str(resultado)
-	time.sleep(30)
+	time.sleep(60)
 	connection.send(b)
 	horafinal = time.strftime("%H") +":"+ time.strftime("%M") +":"+ time.strftime("%S")
 	tiempo_final = time.time() 
@@ -67,7 +67,7 @@ def hilo(connection, addr, tiempo_inicial,horadeinicio):
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 #server_address = ('192.168.8.138', 9400)
-server_address = ('localhost', 9011)
+server_address = ('localhost', 9015)
 print >>sys.stderr, 'starting up on %s port %s' % server_address
 sock.bind(server_address)
 sock.listen(50)
