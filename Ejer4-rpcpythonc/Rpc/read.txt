@@ -1,0 +1,11 @@
+request:
+https://www.youtube.com/watch?v=HbBxO5RXNhU&t=555s
+sudo apt-get install rpcbind
+rpcgen -a -C div.x
+
+compile:
+make -f Makefile.div
+sudo ./div_server
+sudo ./div_client localhost 100 1000
+
+http://www.redaht.com/archives/redhat-list/2004-June/msg00439.html
