@@ -1,5 +1,3 @@
-----------------------------------------
-
 
 
 from SimpleXMLRPCServer import SimpleXMLRPCServer
@@ -45,7 +43,7 @@ class SimpleThreadedXMLRPCServer(SocketServer.ThreadingMixIn, SimpleXMLRPCServer
 class ServerThread(threading.Thread):
     def __init__(self):
          threading.Thread.__init__(self)
-         self.localServer = SimpleThreadedXMLRPCServer(("localhost",10056))
+         self.localServer = SimpleThreadedXMLRPCServer(("localhost",10059))
          
          self.localServer.register_instance(MyFuncs())
 
@@ -59,7 +57,7 @@ print "Listo servidor."
 class ClientThread(threading.Thread):
     def __init__(self):
         threading.Thread.__init__(self)
-        self.s = xmlrpclib.ServerProxy('http://localhost:10056')
+        self.s = xmlrpclib.ServerProxy('http://localhost:10059')
 
     def run(self):
 

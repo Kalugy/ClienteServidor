@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
-
+/*
 void
 div_prog_1(char *host, int x,int y)
 {
@@ -22,7 +22,7 @@ div_prog_1(char *host, int x,int y)
 		clnt_pcreateerror (host);
 		exit (1);
 	}
-#endif	/* DEBUG */
+#endif	
 	div_1_arg.a=x;
 	div_1_arg.b=y;
 
@@ -36,34 +36,74 @@ div_prog_1(char *host, int x,int y)
 #ifndef	DEBUG
 
 	clnt_destroy (clnt);
-#endif	 /* DEBUG */
+#endif	 
 }
 
-
+*/
 void *divisionhilo(void *h)
 {
 	printf("HOLA\n");
 	char *host=(void*)h;
 	CLIENT *clnt;
-	int  *result_1;
+	int  *result_1,*result_2,*result_3;
 	numbers  div_1_arg;
 	printf("%c\n",*host);
+
+	/* Identificador del thread hijo */
+	pthread_t idHilo;
+
+	/* error devuelto por la función de creación del thread */
+	int error;
+	int NUM_THREADS;
+	NUM_THREADS = 3; 
+
+	pthread_t thr[NUM_THREADS];
+	int rc;
+
 #ifndef	DEBUG
 	clnt = clnt_create (host, DIV_PROG, DIV_VERS, "udp");
 	if (clnt == NULL) {
 		clnt_pcreateerror (host);
 		exit (1);
 	}
+	/*
+	clnt2 = clnt_create (host, DIV_PROG, DIV_VERS, "udp");
+	if (clnt2 == NULL) {
+		clnt_pcreateerror (host);
+		exit (1);
+	}*/
 #endif	/* DEBUG */
-	div_1_arg.a=7;
-	div_1_arg.b=7;
-	//printf("Envio\n");
+	div_1_arg.a=33;
+	div_1_arg.b=3;
+	printf("Envio\n");
 	result_1 = div_1(&div_1_arg, clnt);
+	printf("Termino\n");
+	/*
+	div_1_arg.a=9;
+	div_1_arg.b=9;
+	printf("Envio2\n");
+	result_2 = div_1(&div_1_arg, clnt2);*/
+	//printf("1\n" );
+	/*
+	for (i = 0; i < NUM_THREADS; ++i) {
+		if ((rc = pthread_create(&thr[i], NULL, divisionhilo, "localhost")))
+		{
+		  fprintf(stderr, "error: pthread_create, rc: %d\n", rc);
+		  return EXIT_FAILURE;
+		}
+	}
+	printf("Finalizo\n");
+
+
+	for (i = 0; i < NUM_THREADS; ++i) {
+	pthread_join(thr[i], NULL);
+	}*/
+
 	if (result_1 == (int *) NULL) {
 		clnt_perror (clnt, "call failed");
 	}
 	else{
-		printf("RESULT %d\n",*result_1 );
+		printf("RESULT %d  \n",*result_1  );
 	}
 #ifndef	DEBUG
 
@@ -82,7 +122,7 @@ main (int argc, char *argv[])
 	/* error devuelto por la función de creación del thread */
 	int error;
 	int NUM_THREADS;
-	NUM_THREADS = 4; 
+	NUM_THREADS = 300; 
 
 	pthread_t thr[NUM_THREADS];
 	int rc;
@@ -126,13 +166,6 @@ main (int argc, char *argv[])
 	for (i = 0; i < NUM_THREADS; ++i) {
 	pthread_join(thr[i], NULL);
 	}
-
-
-
-
-
-
-
 
 	exit (0);
 }

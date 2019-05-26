@@ -3,27 +3,26 @@
 
 # Parameters
 
-CLIENT = rdict_client
-SERVER = rdict_server
+CLIENT = vote_client
+SERVER = vote_server
 
 SOURCES_CLNT.c = 
 SOURCES_CLNT.h = 
 SOURCES_SVC.c = 
 SOURCES_SVC.h = 
-SOURCES.x = rdict.x
+SOURCES.x = vote.x
 
-TARGETS_SVC.c = rdict_svc.c rdict_server.c rdict_xdr.c 
-TARGETS_CLNT.c = rdict_clnt.c rdict_client.c rdict_xdr.c 
-TARGETS = rdict.h rdict_xdr.c rdict_clnt.c rdict_svc.c rdict_client.c rdict_server.c
+TARGETS_SVC.c = vote_svc.c vote_server.c vote_xdr.c 
+TARGETS_CLNT.c = vote_clnt.c vote_client.c vote_xdr.c 
+TARGETS = vote.h vote_xdr.c vote_clnt.c vote_svc.c vote_client.c vote_server.c
 
 OBJECTS_CLNT = $(SOURCES_CLNT.c:%.c=%.o) $(TARGETS_CLNT.c:%.c=%.o)
 OBJECTS_SVC = $(SOURCES_SVC.c:%.c=%.o) $(TARGETS_SVC.c:%.c=%.o)
 # Compiler flags 
 
-CPPFLAGS += -D_REENTRANT
 CFLAGS += -g 
-LDLIBS += -lnsl -lpthread 
- RPCGENFLAGS = 
+LDLIBS += -lnsl
+RPCGENFLAGS = 
 
 # Targets 
 

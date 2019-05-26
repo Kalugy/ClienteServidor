@@ -8,13 +8,13 @@
  #include <unistd.h>
 #include<stdio.h>
 #include<stdlib.h>
-
-void write_solution(int a, int b,int result, const char* fname)
+#include <time.h>
+void write_solution(int a, int b,int result, const char* fname,double duration)
 {
     
    	FILE* fp = fopen(fname, "a");
     //for (i = 0; i <= n; ++i)
-    fprintf(fp, "a=%d b=%d result=%d\n", a, b,result);
+    fprintf(fp, "a=%d b=%d result=%d Tiempo=%f\n  ", a, b,result,duration);
     fclose(fp);
 }
 
@@ -22,20 +22,28 @@ void write_solution(int a, int b,int result, const char* fname)
 int *
 div_1_svc(numbers *argp, struct svc_req *rqstp)
 {
-	static int  result;
+	static int result;
 	int i;
 	/*
 	 * insert server code here
 	 */
 
+	clock_t start_t, end_t;
+	double duration;
+	start_t = clock();
 	result=argp->a / argp->b;
-    write_solution(argp->a, argp->b,result, "logrpc.txt");
-    
-	printf("Recibido El programa terminara en 10 segundos.\n");
+
+	end_t = clock();
+	duration = (double)(end_t - start_t) / CLOCKS_PER_SEC;
+	printf("%f\n",duration);
+    sleep(1);
+
+    write_solution(argp->a, argp->b,result, "logrpc.txt",duration);
+	printf("Respuesta \n");
 	
-	printf("datos %d %d is %d result\n",argp->a,argp->b,result );	
-	sleep(5);
-    printf("Pasaron los n segundos?");
+	//printf("datos %d %d is %d result\n",argp->a,argp->b,result );	
+	
+    //printf("Pasaron los segundos?.\n");
 
 	return &result;
 }

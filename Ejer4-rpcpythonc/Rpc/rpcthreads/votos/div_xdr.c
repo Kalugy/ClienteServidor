@@ -3,16 +3,16 @@
  * It was generated using rpcgen.
  */
 
-#include "rdict.h"
+#include "div.h"
 
 bool_t
-xdr_example (XDR *xdrs, example *objp)
+xdr_numbers (XDR *xdrs, numbers *objp)
 {
 	register int32_t *buf;
 
-	 if (!xdr_int (xdrs, &objp->exfield1))
+	 if (!xdr_int (xdrs, &objp->a))
 		 return FALSE;
-	 if (!xdr_char (xdrs, &objp->exfield2))
+	 if (!xdr_int (xdrs, &objp->b))
 		 return FALSE;
 	return TRUE;
 }
