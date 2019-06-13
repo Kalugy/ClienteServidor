@@ -36,7 +36,7 @@ class MyFuncs:
     def logaritmo(self, x, y):
         return math.log(float(x), float(y))
     """
-
+"""
 class SimpleThreadedXMLRPCServer(SocketServer.ThreadingMixIn, SimpleXMLRPCServer.SimpleXMLRPCServer):
         pass
 
@@ -53,7 +53,7 @@ class ServerThread(threading.Thread):
 server = ServerThread()
 server.start() # The server is now running
 print "Listo servidor."
-
+"""
 class ClientThread(threading.Thread):
     def __init__(self):
         threading.Thread.__init__(self)
@@ -143,7 +143,7 @@ class ClientThread(threading.Thread):
             """
                 
 
-NUM_HILOS = 500
+NUM_HILOS = 1
 
 for num_hilo in range(NUM_HILOS):
     #hilo1 = threading.Thread(name='hilo%s' %num_hilo, target=hilo)    
