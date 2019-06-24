@@ -12,6 +12,9 @@ class FibonacciRpcClient(object):
 
         self.channel = self.connection.channel()
 
+
+
+        
         result = self.channel.queue_declare('', exclusive=True)
         self.callback_queue = result.method.queue
 
@@ -40,14 +43,17 @@ class FibonacciRpcClient(object):
         return float(self.response)
 
     def run(self):
-        print ("LOL")
+        #print ("LOL")
         response=self.call("/|5|4")
         print (" [.] Got %r" % response)
 
 
 
 
-NUM_HILOS = 3
+
+
+
+NUM_HILOS = 1000   
 
 for num_hilo in range(NUM_HILOS):
     #hilo1 = threading.Thread(name='hilo%s' %num_hilo, target=hilo)    

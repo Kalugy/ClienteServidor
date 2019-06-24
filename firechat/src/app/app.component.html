@@ -1,0 +1,94 @@
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand">Chat</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="https://console.firebase.google.com/u/0/project/chat-ventana/database/firestore/data~2Fchats~2FJRa9HNWBbIJthdhlzRac">Firebase <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://firebase.google.com/docs/?authuser=0">Documentación</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Presentado por:
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item">Nicolás Granada Ramírez</a>
+            <a class="dropdown-item">Julián Daniel Trujillo Vidal</a>
+            <a class="dropdown-item">Manuel Prada</a>
+          </div>
+        </li>
+        <div *ngIf="_cs.usuario.uid">
+        <li class="nav-item">
+            <button type="button" class="btn btn-outline-secondary" (click)="_cs.logout()">Cerrar Sesión</button>
+          </li>
+        </div>
+      </ul>
+    </div>
+  </nav>
+
+
+<div class="container">
+  <br>
+  <h1 align="center">Bienvenido {{ _cs.usuario.nombre }}</h1>
+
+  <app-login *ngIf="!_cs.usuario.uid"> </app-login>
+</div>
+<div>
+  <div align="center">
+    <div *ngIf="_cs.usuario.uid">
+      
+      
+
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h2>
+            Grupos
+          </h2  >
+
+          <button type="button" class="btn btn-outline-info" (click)="muestra('chat1')">
+            Grupo1
+          </button>
+          <button type="button" class="btn btn-outline-info" (click)="muestra('chat2')">
+            Grupo2
+          </button>
+          <button type="button" class="btn btn-outline-info" (click)="muestra('chat3')">
+            Grupo3
+          </button>
+
+       </div>
+      </div>
+      <br>
+      <div class="container">
+        <app-chat></app-chat>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+  
+
+<br>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <pre style="font: small-caps 100%/200% serif; margin: 0 auto;
+    display: inline-block; text-align:center;">
+    Todos los derechos reservados:
+    Nicolás Granada Ramírez - Julián Daniel Trujillo Vidal - Manuel Prada
+    Contacto: 3215396722
+    Direccion Calle 24 bis # 32 - 12 Barrio - Alamos 
+    Risaralda, Pereira, Colombia   
+  </pre>
+  </nav>
+
+
+
+
+
+  
+

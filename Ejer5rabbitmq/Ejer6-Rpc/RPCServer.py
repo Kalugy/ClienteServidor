@@ -70,7 +70,7 @@ def on_request(ch, method, props, body):
     f.write(escritura)
     f.close()
     mutex.release()
-    time.sleep(10)
+    #time.sleep(10)
 
 
     ch.basic_publish(exchange='',
